@@ -12,4 +12,6 @@ The purpose of this project is to allow you to take an app that you are an activ
 3.  Run this app on the device / simulator (select a development team if you're installing on a device)
 4.  Use the UI to dump the various items to the console
 
+## LICENSE
+MIT - see the associated License File
 
